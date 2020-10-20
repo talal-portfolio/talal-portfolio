@@ -1,6 +1,11 @@
 # Welcome To My Repositor Collection, 👋<br><br>
-![Talal Jamil](https://github.com/TalalRana/TalalRana/blob/main/1.png?raw=true)
+![Talal Jamil](https://raw.githubusercontent.com/TalalRana/TalalRana/main/1.png)
 <br>
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1]: https://twitter.com/TalalJamilCh
+[2]: https://www.linkedin.com/in/devtalal/
+
 As I metioned I would like to preffer call my self as a Computer Scientist,
 who is always cheer up to explore innovative development tech stack, creating technology to elevate people, and building community.
 Some technology I enjoy working with include VueJs,Laravel, Ionic, ReactJs. <strong> and Many More Skills on the way to add :D :D </strong>
