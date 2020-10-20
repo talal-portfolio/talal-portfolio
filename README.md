@@ -1,5 +1,5 @@
 # Welcome To My Repositor Collection, 👋<br><br>
-![Talal Jamil](https://github.com/TalalRana/DevByTalal/blob/main/1.png?raw=true)
+![Talal Jamil](https://github.com/TalalRana/TalalRana/blob/main/1.png?raw=true)
 <br>
 As I metioned I would like to preffer call my self as a Computer Scientist,
 who is always cheer up to explore innovative development tech stack, creating technology to elevate people, and building community.
