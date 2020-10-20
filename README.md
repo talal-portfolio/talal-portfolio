@@ -1,7 +1,7 @@
 # Welcome To My Repositor Collection, 👋<br><br>
 ![Talal Jamil](https://raw.githubusercontent.com/TalalRana/TalalRana/main/1.png)
 <br>
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter]][1], or on [![LinkedIn]][2].
 
 [1]: https://twitter.com/TalalJamilCh
 [2]: https://www.linkedin.com/in/devtalal/
