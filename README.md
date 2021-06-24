@@ -1,5 +1,5 @@
 # Welcome To My Repository Collection, 👋<br><br>
-![Talal Jamil](https://raw.githubusercontent.com/TalalRana/TalalRana/main/Web.png)<style= "width:100%";></style>
+![Talal Jamil](https://raw.githubusercontent.com/TalalRana/TalalRana/main/Web.png width:100%)
 <br>
 You can find me on [Twitter][1], or on [LinkedIn][2].
 
