@@ -1,16 +1,8 @@
-# Welcome To Talal's Repository Collection, 👋<br><br>
-
-
-Hey I am a type of Scientist 😊, <br>
-Computer Scientist who is always cheer up to explore innovative development tech stack, creating technology to elevate people, and building community.
-I recently enjoyed working with MEAN, MERN, MEVN JavaScript software stack and with Laravel Php tech stack for backend purpose mostly and obviously <strong> Many More are on my way.</strong> 😉
+Hey <br>
+ I am a Computer Scientist 😊, who is always cheered up to explore the innovative latest tech stack, and wish to give my best to the revolution of technology to make the world a better and peaceful place.
+I have hands-on experience in JavaScript and Php frameworks and libraries. <strong> Many More are on my way including Ruby on Rails and Python.</strong> 😉
 I strongly believed in, development is all about developing yourself as well as ameliorating your skills additionally.
-My only aim is to satisfy inner-me by doing hard work with honesty, play a valueable role in the world of technology
-and wish to be a Embedded Software Engineer. (Thanks)
+My only aim is to satisfy my inner me by doing hard work with honesty, playing a valuable role in the world of technology, and wishing to be an Embedded Software Engineer. (Thanks)
 <br><br>
-You can contact me through [Twitter][1], or on [LinkedIn][2] or just Email me talal.techpro@outlook.com for any queries.
-I would love to help you to assist any Software Development.
-
-[1]: https://twitter.com/TalalJamilCh
-[2]: https://www.linkedin.com/in/techpro-talal/
-[3]: talal.techpro@outlook.com
+You can contact me through [Twitter][1], or on [LinkedIn][2], or just Email me at talal.techpro@gmail.com for any queries.
+I would love to help you to assist in Software Development and to give the best solution for complex logic problems.
