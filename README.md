@@ -4,5 +4,7 @@ I have hands-on experience in JavaScript and Php frameworks and libraries. <stro
 I strongly believed in, development is all about developing yourself as well as ameliorating your skills additionally.
 My only aim is to satisfy my inner me by doing hard work with honesty, playing a valuable role in the world of technology, and wishing to be an Embedded Software Engineer. (Thanks)
 <br><br>
-You can contact me through [Twitter][1], or on [LinkedIn][2], or just Email me at talal.techpro@gmail.com for any queries.
+Feel free to contact me through Email at talal.techpro@gmail.com for any queries.
+or you can found me on LinkedIn as well, 
+https://www.linkedin.com/in/techpro-talal/ 
 I would love to help you to assist in Software Development and to give the best solution for complex logic problems.
