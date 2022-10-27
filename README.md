@@ -7,5 +7,5 @@ My only aim is to satisfy my inner me by doing hard work with honesty, and playi
 Feel free to contact me through Email at talal.techpro@gmail.com
 or you can found me on LinkedIn as well, 
 https://www.linkedin.com/in/techpro-talal/ 
-I would love to help you to assist in Software Development and to give the best solution for complex logic problems.
+I would like to assist in Software Development to give the best solution for complex logic problems.
 Thanks
